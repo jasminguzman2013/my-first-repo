@@ -1,0 +1,130 @@
+/*body {*/
+/*    background-color: #AAA8E0;*/
+/*     margin: 0 auto;*/
+   
+/*}*/
+
+/*.nav-bar {*/
+/*    background-color: #A3E8E0;*/
+/*    color: red;*/
+/*    height: 75px; */
+/*    position: fixed;*/
+/*    width: 100%;*/
+/*    top: 0px;*/
+ 
+    
+/*}*/
+
+/*.nav-items {*/
+/*   float: right;*/
+/*   list-style-type: none;*/
+/*}*/
+
+/*.nav-item {*/
+/*    display: inline-block;*/
+/*    margin-top: 10px;*/
+/*    margin-left:15px;*/
+    /*background-color:black;*/
+    /*height:50px;*/
+    /*width:90px;*/
+    /*border-radius:50%;*/
+/*}*/
+
+/*h1 {*/
+/*    margin-top: 75px;*/
+/*}*/
+
+/*#logo { */
+/*    height: 100px;*/
+/*    width: 100px;*/
+/*}*/
+
+/*a:hover{*/
+/*    color:white;*/
+/*}*/
+
+/*Banner Styles*/
+
+.banner {
+    margin-top: 75px;
+    background-image: url('../img/world-map.jpg');
+    height:245px;
+    width:100%;
+}
+
+
+
+.banner-text { 
+   background-color: #A3E8E0;
+   width:300px;
+   height: 80px;
+   display: inline-block;
+   text-align: center;
+   border: 2px dashed blue;
+   font-family: 'Love Ya Like A Sister', cursive;
+   Font-size: 32px;
+   margin-left: 40%;
+   margin-top:90px;
+}
+
+.banner-text p{
+    color: #fff;
+}
+    
+.body {
+  font-family: 'Roboto Mono', monospace;
+    width:100%;
+    
+}    
+.body-text{
+    /*margin-left: 50px;*/
+    width: 48%;
+    /*border: 2px solid blue;*/
+    float: left;
+    font-family: 'Shadows Into Light', cursive;
+}
+
+.bold {
+    font-weight: 700;
+}
+
+
+/*Main styles*/
+.columns {
+    width: 100px;
+}
+
+.col {
+    
+}
+
+/*End of Main Styles*/
+
+ /*Contact Styles*/
+ 
+ .container {
+     height: 1200px;
+     overflow: hidden;
+     
+ }
+ 
+ .m {
+     margin-top: 70px;
+     width: 700px;
+     height: 800px;
+     background-color: #A3E8E0;
+     border: 10px solid blue;
+     margin: 0 auto;
+     margin-top: 70px;
+ }
+
+
+.map {
+    margin: 0 auto;
+    margin-top: 25px;
+    width: 600px;
+    
+    
+}
+
+
